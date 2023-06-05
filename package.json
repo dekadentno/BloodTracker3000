@@ -1,0 +1,18 @@
+{
+  "name": "bloodtracker3000",
+  "version": "1.0.0",
+  "description": "Blood tracker for my county",
+  "main": "BloodTracker3000.js",
+  "scripts": {
+    "start": "node BloodTracker3000.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dekadentno",
+  "devDependencies": {
+    "dotenv": "^16.1.4"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "nodemailer": "^6.9.3"
+  }
+}
